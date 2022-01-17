@@ -115,7 +115,7 @@ public class AddressBookTest extends ObjInitialize {
 			---> ONCE FINISHED AUTOMATING Create Repository in GitHub and push to GitHub
 			---> Once pushed add US to the project then send picture in MENTORS GROUP CHAT
 						 Crystal: 		--> Koritzerc23@gmail.com
-						 Helen: 		--> Hnbehining@gmail.com
+						 Helen: 		--> hnbegining@gmail.com 
 						 Ahmad: 		--> a.stanikzai77@gmail.com
 						 Fahim: 		--> NTKBatch5
 
